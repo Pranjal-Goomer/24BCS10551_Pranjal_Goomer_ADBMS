@@ -1,0 +1,3 @@
+SELECT St_Name,Course_Name 
+FROM student
+CROSS JOIN course;

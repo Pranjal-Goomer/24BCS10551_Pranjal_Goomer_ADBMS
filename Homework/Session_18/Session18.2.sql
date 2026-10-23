@@ -1,0 +1,4 @@
+select *
+from student
+join course
+on student.course_id = course.course_id;
